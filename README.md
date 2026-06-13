@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Medallion+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;PySpark+%7C+Airflow+%7C+BigQuery+%7C+AWS;Turning+Raw+Data+into+Business+Intelligence+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=jayaganeshkumar&color=6a11cb&label=Profile+Views&style=for-the-badge" alt="jayaganeshkumar" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=jayaganeshkumar&color=6a11cb&label=Profile+Views&style=for-the-badge" alt="jayaganeshkumar" /></p>
 
 </div>
 
@@ -73,16 +73,12 @@ class JayaGaneshKumar:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jayaganeshkumar&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-<br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayaganeshkumar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="165"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaganeshkumar&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jayaganeshkumar&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 <br/><br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jayaganeshkumar&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=jayaganeshkumar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaganeshkumar&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" height="165"/>
 
 </div>
 
@@ -114,8 +110,8 @@ class JayaGaneshKumar:
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer&animation=fadeIn)
-
 ### Show some ❤️ by starring some of the repositories!
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer&animation=fadeIn)
 
 </div>
